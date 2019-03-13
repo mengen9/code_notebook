@@ -64,8 +64,7 @@
 - 还是一个安装包管理
 - conda list:显示anaconda安装的包
 - conda env list:显示anaconda的虚拟环境列表
-- conda create -n oop python=3.6 创建虚拟环境，版本为3.6，名称为oop
-    
+- conda create -n oop python=3.6 创建虚拟环境，版本为3.6，名称为oop    
     
 
 
